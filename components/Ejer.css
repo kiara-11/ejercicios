@@ -6,7 +6,6 @@
 }
 .descrip2 {
   color: #c4c4cc;
-
   text-align: center;
   /* Text sm */
   font-family: Roboto;
@@ -15,11 +14,11 @@
   font-weight: 400;
   line-height: 160%; /* 22.4px */
 }
-.descrip{
-    color: var(--Neutral-Colors-White, #FFF);
-font-family: Roboto;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 160%; /* 28.8px */
+.descrip {
+  color: var(--Neutral-Colors-White, #fff);
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 160%; /* 28.8px */
 }
